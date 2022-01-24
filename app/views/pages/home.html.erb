@@ -6,14 +6,12 @@
     </div>
   </div>
 
-  <%#<div class="home_trait"></div>%>
+
   <div class="classroom">
     <%@current_user.classrooms.each do |classroom| %>
-    <p id="color_text"><%=classroom.name%></p>
+    <%#<p id="color_text"><%=classroom.name%></p>
     <%end%>
   </div>
-  <%#<div class="home_trait"></div>%>
-  <%#<div class="image_color"></div>%>
 
   <div class="list_students">
     <%@current_user.classrooms.each do |classroom| %>
@@ -45,7 +43,8 @@
                   </div>
                 <% end %>
               </div>
-              <div class="student_name" class="col-4 justify-content-center" class="d-flex align-items-center"><p id="home_forme_student"><%=student.first_name%><br><%=student.last_name.upcase!%></p></div>
+              <div class="student_name" class="col-4 justify-content-center" class="d-flex align-items-center"><a href="<%= student_path(student.id) %>"><p id="home_forme_student"><%=student.first_name%><br><%=student.last_name.upcase!%></p>
+              </div>
               <div class="col-4 justify-content-center" class="d-flex align-items-center"><a href="<%= new_observation_path(student) %>">
                 <img class="plusadd" src="https://res.cloudinary.com/dowgjinna/image/upload/v1641802443/noteadd2_gdqhf3.png"></a>
               </div>
