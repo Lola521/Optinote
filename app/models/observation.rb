@@ -1,5 +1,5 @@
 class Observation < ApplicationRecord
-  CATEGORY = ["Relation à l'autre", "Expression", "Attitudes corporelles", "Gestes / Actes quotidiens", "Écriture", "Lecture", "Mathématiques", "Comportement", "Environnement", "Absence", "Autre"]
+  CATEGORY = ["Relation à l'autre", "Expression", "Attitudes corporelles", "Gestes / Actes quotidiens", "Écriture", "Lecture", "Mathématiques", "Comportement", "Environnement", "Absence", "Autre - Perles"]
   OBS_COLOR = {
     "Difficultés": "#F2C501",
     "Neutre": "#94D8CB",
