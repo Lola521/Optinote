@@ -8,7 +8,6 @@
   margin: 2px;
   padding-left: 2%;
   padding-right: 2%;
-  display: none;
 }
 
 .obs {
@@ -22,6 +21,12 @@
 #obs-title {
   font-weight: medium;
   margin-top: 8px;
+}
+
+.text_info_obs {
+  display: flex;
+  justify-content: space-between;
+  height: 30px;
 }
 
 .bas_de_card {
