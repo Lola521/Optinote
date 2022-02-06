@@ -8,4 +8,5 @@ class User < ApplicationRecord
   validates :last_name, presence: true
   has_many :observations
   has_many :classrooms
+  has_many :students
 end

@@ -12,7 +12,10 @@ class Observation < ApplicationRecord
 
   validates :category, presence: true
   validates :obs_color, presence: true
-
+  validates :student, presence: true
+  validates :user, presence: true
+  validates :note, presence: true
+  validates :obs_date, presence: true
 
   def creation_date
     self.obs_date || self.created_at
