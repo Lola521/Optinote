@@ -6,7 +6,6 @@ class Observation < ApplicationRecord
     "Forces": "#2D95C2",
   }
 
-
   belongs_to :student
   belongs_to :user
 
@@ -15,13 +14,12 @@ class Observation < ApplicationRecord
   validates :student, presence: true
   validates :user, presence: true
   validates :note, presence: true
-  validates :obs_date, presence: true
 
   def creation_date
     self.obs_date || self.created_at
   end
 
   def display_date
-    self.creation_date.strftime("%d/%m/%Y")
+    self.creation_date.strftime("%d/%m")
   end
 end
