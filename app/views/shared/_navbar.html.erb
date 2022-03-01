@@ -1,0 +1,40 @@
+<div class="navbar navbar-expand-sm navbar-light navbar-lewagon">
+  <%= link_to "/home", class: "navbar-brand" do %>
+    <%= image_tag "https://res.cloudinary.com/dowgjinna/image/upload/v1642073840/logo_wagon_opti4c_croagr.png", alt: "Optinote", width: 300 %>
+  <% end %>
+
+  <div class="classroom_name">
+    <% if user_signed_in? %>
+      <h3>
+        <div>Ecole St Juste</div>
+      </h3>
+    <% end %>
+  </div>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <% if user_signed_in? %>
+          <% if @student != nil %>
+            <li class="nav-item active">
+              <%= link_to "Ma classe", home_path, class: "nav-link" %>
+            </li>
+            <li class="nav-item">
+              <%= link_to "Observations", new_observation_path(id: @student.id), class: "nav-link" %>
+            </li>
+            <li class="nav-item">
+              <%= link_to "Fiche élève", student_path(id: @student.id), class: "nav-link" %>
+            </li>
+          <% end %>
+          <%= link_to "Log out", destroy_user_session_path, method: :delete, class: "nav-link" %>
+      <% else %>
+        <li class="nav-item">
+          <%= link_to "Login", new_user_session_path, class: "nav-link" %>
+        </li>
+      <% end %>
+    </ul>
+  </div>
+</div>

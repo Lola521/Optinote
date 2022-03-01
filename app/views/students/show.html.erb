@@ -1,53 +1,77 @@
-<div class="container">
-  <div class="row justify-content-center">
-    <h4 class="mt-4 mb-4 display-4">Show details of student <%= @student.first_name %></h4>
+<script src="https://kit.fontawesome.com/fd355f87ce.js" crossorigin="anonymous"></script>
+
+<div class="home_trait"></div>
+<div class="card-student">
+  <%= cl_image_tag(@student.photo.key, :format => :png)%>
+  <div class="card-student-infos">
+    <h3><strong><%=@student.first_name%></strong> <%=@student.last_name%></h3>
+    <h2><%=@observations.count%></h2>
   </div>
-  <div class="row justify-content-center">
-    <table class="table">
-      <tbody>
-        <tr>
-          <th>First name:</th>
-          <td><%= @student.first_name %></td>
-          <a href="<%= student_path(@student.id) %>">
-        </tr>
-        <tr>
-          <th>Last name:</th>
-          <td><%= @student.last_name %></td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-   <td><%= link_to 'Back to my list', students_path %></td>
 </div>
 
-<div class="list_students">
-  <div class="container">
-    <%current_user.students.order(:last_name).each do |student|%>
-      <div class="home_card">
-        <%pins = false%>
-        <%current_user.observations.each do |observation|%>
-          <%if observation.student_id == student.id%>
-            <%pins = true%>
-          <%end%>
-        <%end%>
-        <div class="row align-items-center">
-          <div class="col-4 justify-content-center" class="imgs_student" class="d-flex align-items-center">
-            <a href="<%= student_path(student.id) %>">
-            <%if pins == true %>
-            <% else %>
-              <div class="col-4-float-left" class="imgs_student" class="d-flex align-items-center">
-              <a href="<%= student_path(student.id) %>">
-              </div>
-            <% end %>
-          </div>
-          <div class="student_name" class="col-4 justify-content-center" class="d-flex align-items-center"><a href="<%= student_path(student.id) %>"><p id="home_forme_student">
-            <%=student.first_name%><br><%=student.last_name.upcase!%></p>
-          </div>
-          <div class="col-4 justify-content-center" class="d-flex align-items-center"><a href="<%= new_observation_path(student) %>">
-            <img class="plusadd" src="https://res.cloudinary.com/dowgjinna/image/upload/v1641802443/noteadd2_gdqhf3.png"></a>
-          </div>
-        </div>
-      </div>
-    <%end%>
-  </div>
+<div id="myBtnContainer">
+  <button class="btn active" style="background-color: #80136D" onclick="filterSelection('all')"> Tout</button>
+  <% Observation::OBS_COLOR.keys.each do |level|  %>
+      <button class="btn" style="background-color: <%=Observation::OBS_COLOR[level]%>;" onclick="filterSelection('<%=level.downcase %>')"><%=level%></button>
+  <% end %>
 </div>
+
+<div class="container trigger_popup_fricc">
+  <% @observations.each do |obs| %>
+    <div class="filterDiv obs <%= obs.obs_color.downcase %>" style="border-left: 25px solid <%= Observation::OBS_COLOR[obs.obs_color.to_sym] %>;" data-link-id="<%= obs.id %>" data-note-content="<%= obs.note %>" data-note-date="<%= obs.display_date %>">
+      <div class="text_info_obs">
+        <p><%= "#{ obs.category }" %></p>
+        <h6><%= obs.display_date %></h6>
+      </div>
+      <div class="note_card">
+        <h6><%= obs.note %></h6>
+      </div>
+    </div>
+  <%end%>
+</div>
+
+<script>
+filterSelection('all')
+  function filterSelection(c) {
+    var x, i;
+    x = document.getElementsByClassName("filterDiv");
+    if (c == "all") c = "";
+    for (i = 0; i < x.length; i++) {
+      w3RemoveClass(x[i], "show");
+      if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+    }
+  }
+
+  function w3AddClass(element, name) {
+    var i, arr1, arr2;
+    arr1 = element.className.split(" ");
+    arr2 = name.split(" ");
+    for (i = 0; i < arr2.length; i++) {
+      if (arr1.indexOf(arr2[i]) == -1) { element.className += " " + arr2[i]; }
+    }
+  }
+
+  function w3RemoveClass(element, name) {
+    var i, arr1, arr2;
+    arr1 = element.className.split(" ");
+    arr2 = name.split(" ");
+    for (i = 0; i < arr2.length; i++) {
+      while (arr1.indexOf(arr2[i]) > -1) {
+        arr1.splice(arr1.indexOf(arr2[i]), 1);
+      }
+    }
+    element.className = arr1.join(" ");
+  }
+
+  // Add active class to the current button (highlight it)
+  var btnContainer = document.getElementById("myBtnContainer");
+  var btns = btnContainer.getElementsByClassName("btn");
+  for (var i = 0; i < btns.length; i++) {
+    btns[i].addEventListener("click", function () {
+      var current = document.getElementsByClassName(" active");
+      current[0].className = current[0].className.remove(" active");
+      this.className += " active";
+    });
+  }
+
+</script>
