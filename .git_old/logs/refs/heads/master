@@ -1,0 +1,45 @@
+0000000000000000000000000000000000000000 f0b154bc873159faf7facce93a643eccd99c735a GUOLE JING <guole.jing@gmail.com> 1641225379 +0100	commit (initial): Initial commit with devise template from https://github.com/lewagon/rails-templates
+f0b154bc873159faf7facce93a643eccd99c735a 7a386ddd8a7d8cbb4821a243c8c8295e6f9fe674 GUOLE JING <guole.jing@gmail.com> 1641294063 +0100	commit: SSL
+7a386ddd8a7d8cbb4821a243c8c8295e6f9fe674 d7ba8a7665cf7b37335f7e85144df035c64cd90f GUOLE JING <guole.jing@gmail.com> 1641294555 +0100	pull origin master: Merge made by the 'recursive' strategy.
+d7ba8a7665cf7b37335f7e85144df035c64cd90f a1ca41e424dccd41ec7c550130fd9a780e0be03d GUOLE JING <guole.jing@gmail.com> 1641296838 +0100	pull origin master: Merge made by the 'recursive' strategy.
+a1ca41e424dccd41ec7c550130fd9a780e0be03d f7c717fdfd552448b9921b71b35d734b5babcc15 GUOLE JING <guole.jing@gmail.com> 1641304444 +0100	pull origin master: Merge made by the 'recursive' strategy.
+f7c717fdfd552448b9921b71b35d734b5babcc15 e18b425ed5d38126dc6740b43bf89fbf8ce2a941 GUOLE JING <guole.jing@gmail.com> 1641309507 +0100	pull origin master: Merge made by the 'recursive' strategy.
+e18b425ed5d38126dc6740b43bf89fbf8ce2a941 df2ceda6f47bb843e867121bf493bb57347b604f GUOLE JING <guole.jing@gmail.com> 1641312699 +0100	pull origin master: Merge made by the 'recursive' strategy.
+df2ceda6f47bb843e867121bf493bb57347b604f 8c5855e6746e8b74d5bbe8285d6c44c0d6dc734a GUOLE JING <guole.jing@gmail.com> 1641320413 +0100	pull origin master: Merge made by the 'recursive' strategy.
+8c5855e6746e8b74d5bbe8285d6c44c0d6dc734a 7aa70e8b7468fc9ee685ad6b4fdd23e319254888 GUOLE JING <guole.jing@gmail.com> 1641381081 +0100	pull origin master: Merge made by the 'recursive' strategy.
+7aa70e8b7468fc9ee685ad6b4fdd23e319254888 d26d1ac5f114ccfde4708c794795abfcd704399c GUOLE JING <guole.jing@gmail.com> 1641381560 +0100	pull origin master: Merge made by the 'recursive' strategy.
+d26d1ac5f114ccfde4708c794795abfcd704399c b810fdc929029734a4dd953dde2fdad35d6a0f21 GUOLE JING <guole.jing@gmail.com> 1641389664 +0100	pull origin master: Merge made by the 'recursive' strategy.
+b810fdc929029734a4dd953dde2fdad35d6a0f21 309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 GUOLE JING <guole.jing@gmail.com> 1641464786 +0100	pull origin master: Merge made by the 'recursive' strategy.
+309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 95a32f175757699aa3151abbbdd6182ff4405847 GUOLE JING <guole.jing@gmail.com> 1641487208 +0100	pull origin master: Fast-forward
+95a32f175757699aa3151abbbdd6182ff4405847 4b469ce94e2323547c09ea09d6b05b63b5977326 GUOLE JING <guole.jing@gmail.com> 1641488233 +0100	pull origin master: Fast-forward
+4b469ce94e2323547c09ea09d6b05b63b5977326 44e48ae7018a90959f2bb64900aece6670be59bf GUOLE JING <guole.jing@gmail.com> 1641551316 +0100	pull origin master: Fast-forward
+44e48ae7018a90959f2bb64900aece6670be59bf 298ecec9752100ce8e973d77e9c0e06a0a57f3d7 GUOLE JING <guole.jing@gmail.com> 1641552798 +0100	pull origin master: Fast-forward
+298ecec9752100ce8e973d77e9c0e06a0a57f3d7 c4cf28e3cd7391d2b498398b5b54bb9bbe439465 GUOLE JING <guole.jing@gmail.com> 1641553678 +0100	pull origin master: Fast-forward
+c4cf28e3cd7391d2b498398b5b54bb9bbe439465 73bc4c2623bbae60a2c9914d0c7d8adb1be1e0b3 GUOLE JING <guole.jing@gmail.com> 1641554139 +0100	pull origin master: Fast-forward
+73bc4c2623bbae60a2c9914d0c7d8adb1be1e0b3 4b61f08c41154013f8088137dd401f7078572364 GUOLE JING <guole.jing@gmail.com> 1641555402 +0100	pull origin master: Fast-forward
+4b61f08c41154013f8088137dd401f7078572364 34ddc743db2d7f90af9bb8654b3330370ec61d1b GUOLE JING <guole.jing@gmail.com> 1641556496 +0100	pull origin master: Fast-forward
+34ddc743db2d7f90af9bb8654b3330370ec61d1b 29edb60529010c1f43a55ddc5a9f806347f99dae GUOLE JING <guole.jing@gmail.com> 1641563487 +0100	pull origin master: Fast-forward
+29edb60529010c1f43a55ddc5a9f806347f99dae 0c2c17f7c8c2e8b50730511f1e5c16daf0bcf4bf GUOLE JING <guole.jing@gmail.com> 1641564688 +0100	pull origin master: Fast-forward
+0c2c17f7c8c2e8b50730511f1e5c16daf0bcf4bf e4d8a614d67eb5214325c7962e059cf3f62f37bb GUOLE JING <guole.jing@gmail.com> 1641564833 +0100	pull origin master: Fast-forward
+e4d8a614d67eb5214325c7962e059cf3f62f37bb fdd8741f644d1b63986d4a2aa24ac94502765a93 GUOLE JING <guole.jing@gmail.com> 1641566294 +0100	pull origin master: Fast-forward
+fdd8741f644d1b63986d4a2aa24ac94502765a93 7ff9d89c920f00b22ab92c489b0bc9cf6126691e GUOLE JING <guole.jing@gmail.com> 1641568502 +0100	pull origin master: Fast-forward
+7ff9d89c920f00b22ab92c489b0bc9cf6126691e fe7ca6ec7b75761aae1436bb08dd5b2971810bb2 GUOLE JING <guole.jing@gmail.com> 1641807302 +0100	pull origin master: Fast-forward
+fe7ca6ec7b75761aae1436bb08dd5b2971810bb2 9eb41ae72d9b1f0358fc4dee4b2a257a78792409 GUOLE JING <guole.jing@gmail.com> 1641808329 +0100	pull origin master: Fast-forward
+9eb41ae72d9b1f0358fc4dee4b2a257a78792409 7b3aadcee699a60df416ee8f0483c0734eb205fe GUOLE JING <guole.jing@gmail.com> 1641812529 +0100	pull origin master: Fast-forward
+7b3aadcee699a60df416ee8f0483c0734eb205fe 30274a74bd65cc88e8944ade3f9ba9173b6248f5 GUOLE JING <guole.jing@gmail.com> 1641816614 +0100	pull origin master: Fast-forward
+30274a74bd65cc88e8944ade3f9ba9173b6248f5 50cb46bb7057ac89ce8fa008eb65f4cc9d54b0c0 GUOLE JING <guole.jing@gmail.com> 1641834176 +0100	commit: pop up show student obs note
+50cb46bb7057ac89ce8fa008eb65f4cc9d54b0c0 2115d0389099cbb069e38184ec834139d6cb4f11 GUOLE JING <guole.jing@gmail.com> 1641837538 +0100	commit (merge): confit master
+2115d0389099cbb069e38184ec834139d6cb4f11 b2f5010bd86dfeaf271bd6759846b0aa43f50a77 GUOLE JING <guole.jing@gmail.com> 1641840244 +0100	pull origin master: Fast-forward
+b2f5010bd86dfeaf271bd6759846b0aa43f50a77 90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 GUOLE JING <guole.jing@gmail.com> 1641911316 +0100	pull origin master: Fast-forward
+90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 210e6dcd39981964121460dcb10f17e856b15606 GUOLE JING <guole.jing@gmail.com> 1641996308 +0100	pull origin master: Fast-forward
+210e6dcd39981964121460dcb10f17e856b15606 8952b0a4237654399bb0f6e557db9279cfce16fd GUOLE JING <guole.jing@gmail.com> 1642009630 +0100	pull origin master: Fast-forward
+8952b0a4237654399bb0f6e557db9279cfce16fd f0e947f4996d5fc801605b00d9488699f7b9e247 GUOLE JING <guole.jing@gmail.com> 1642075601 +0100	pull origin master: Fast-forward
+f0e947f4996d5fc801605b00d9488699f7b9e247 d9db85c5dca947e88edb40613af3295280fe2456 GUOLE JING <guole.jing@gmail.com> 1642075881 +0100	pull origin master: Fast-forward
+d9db85c5dca947e88edb40613af3295280fe2456 ea160b7562d47ad243ffa12eb5fa1901927270db GUOLE JING <guole.jing@gmail.com> 1642084152 +0100	pull origin master: Fast-forward
+ea160b7562d47ad243ffa12eb5fa1901927270db a33f3a18aec6182382a4893a290624b8c1b5498b GUOLE JING <guole.jing@gmail.com> 1642092003 +0100	pull origin master: Fast-forward
+a33f3a18aec6182382a4893a290624b8c1b5498b b6be80bf91c5cfa7257be04b51ab33877feb6645 GUOLE JING <guole.jing@gmail.com> 1642093581 +0100	pull origin master: Fast-forward
+b6be80bf91c5cfa7257be04b51ab33877feb6645 05cf6007b9c24f12734ddc492f611325df435257 GUOLE JING <guole.jing@gmail.com> 1642093879 +0100	pull origin master: Fast-forward
+05cf6007b9c24f12734ddc492f611325df435257 7ba94d4f1e9da9c815c91097540900bca2603ef5 GUOLE JING <guole.jing@gmail.com> 1642435466 +0100	pull origin master: Fast-forward
+7ba94d4f1e9da9c815c91097540900bca2603ef5 ea81d7cb906bc7e4e90d5c7d6692e359866f815c GUOLE JING <guole.jing@gmail.com> 1642438224 +0100	pull origin master: Fast-forward
+ea81d7cb906bc7e4e90d5c7d6692e359866f815c 2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c GUOLE JING <guole.jing@gmail.com> 1643134482 +0100	pull origin master: Fast-forward
+2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c 35f52c968985436fd9f8825fd16f233a158a648f GUOLE JING <guole.jing@gmail.com> 1644168285 +0100	pull origin master: Fast-forward

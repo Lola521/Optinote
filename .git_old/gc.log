@@ -1,0 +1,45 @@
+error: refs/remotes/heroku/master does not point to a valid object!
+error: bad ref for .git/logs/refs/stash.gz
+warning: reflog of 'refs/remotes/origin/compte-prof-enlever-validates' references pruned commits
+error: bad ref for .git/logs/refs/remotes/origin/correction-pop-up.gz
+error: bad ref for .git/logs/refs/remotes/origin/heroku-error.gz
+error: bad ref for .git/logs/refs/remotes/origin/fonts-component-modal_obs.gz
+error: bad ref for .git/logs/refs/remotes/origin/show-student-obs-mise-en-form.gz
+error: bad ref for .git/logs/refs/remotes/origin/typed-homepage.gz
+error: bad ref for .git/logs/refs/remotes/origin/show-student-image.gz
+error: bad ref for .git/logs/refs/remotes/origin/couleur-pop-up.gz
+error: bad ref for .git/logs/refs/remotes/origin/heroku-test.gz
+error: bad ref for .git/logs/refs/remotes/origin/show-student.gz
+error: bad ref for .git/logs/refs/remotes/origin/admin.gz
+warning: reflog of 'refs/remotes/origin/master' references pruned commits
+error: bad ref for .git/logs/refs/remotes/origin/checklist-set-up-for-wagon.gz
+error: bad ref for .git/logs/refs/remotes/origin/student-show-pop-up.gz
+error: bad ref for .git/logs/refs/remotes/origin/show-student-obs.gz
+error: bad ref for .git/logs/refs/heads/tapy-speed.gz
+warning: reflog of 'refs/heads/compte-prof-enlever-validates' references pruned commits
+error: bad ref for .git/logs/refs/heads/pop-up-be.gz
+error: bad ref for .git/logs/refs/heads/correction-pop-up.gz
+error: bad ref for .git/logs/refs/heads/heroku-error.gz
+warning: reflog of 'refs/heads/crud-eleve' references pruned commits
+error: bad ref for .git/logs/refs/heads/pop-up-finalisation.gz
+error: bad ref for .git/logs/refs/heads/pop-up-observation-note.gz
+error: bad ref for .git/logs/refs/heads/fonts-component-modal_obs.gz
+error: bad ref for .git/logs/refs/heads/show-student-2.gz
+error: bad ref for .git/logs/refs/heads/show-student-obs-mise-en-form.gz
+error: bad ref for .git/logs/refs/heads/typed-homepage.gz
+error: bad ref for .git/logs/refs/heads/show-student-image.gz
+error: bad ref for .git/logs/refs/heads/heroku-test-fini.gz
+error: bad ref for .git/logs/refs/heads/couleur-pop-up.gz
+error: bad ref for .git/logs/refs/heads/heroku-test.gz
+error: bad ref for .git/logs/refs/heads/show-student.gz
+warning: reflog of 'refs/heads/admin-compte' references pruned commits
+error: bad ref for .git/logs/refs/heads/admin.gz
+warning: reflog of 'refs/heads/master' references pruned commits
+error: bad ref for .git/logs/refs/heads/user-devise.gz
+error: bad ref for .git/logs/refs/heads/checklist-set-up-for-wagon.gz
+error: bad ref for .git/logs/refs/heads/student-show-pop-up.gz
+error: bad ref for .git/logs/refs/heads/show-student-obs.gz
+warning: reflog of 'HEAD' references pruned commits
+error: Could not read 2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c
+fatal: Failed to traverse parents of commit fe081496e8056fa6ffa9ae0b37749557173cc8fc
+fatal: failed to run repack

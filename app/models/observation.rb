@@ -3,17 +3,13 @@ class Observation < ApplicationRecord
   OBS_COLOR = {
     "Difficultés": "#F2C501",
     "Neutre": "#94D8CB",
-    "Forces": "#2D95C2",
+    "Forces": "#2D95C2"
   }
 
   belongs_to :student
   belongs_to :user
-
   validates :category, presence: true
   validates :obs_color, presence: true
-  validates :student, presence: true
-  validates :user, presence: true
-  validates :note, presence: true
 
   def creation_date
     self.obs_date || self.created_at

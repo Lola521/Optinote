@@ -1,0 +1,6 @@
+[remote "origin"]
+	url = git@github.com:Lola521/Optinote.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "heroku"]
+	url = https://git.heroku.com/optinotelewagon.git
+	fetch = +refs/heads/*:refs/remotes/heroku/*

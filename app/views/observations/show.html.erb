@@ -1,0 +1,86 @@
+<script src="https://kit.fontawesome.com/fd355f87ce.js" crossorigin="anonymous"></script>
+
+<div class="home_trait"></div>
+<div class="card-student">
+  <div class="card-student-infos">
+    <h3><strong><%=@student.first_name%></strong> <%=@student.last_name%></h3>
+  </div>
+</div>
+
+<div id="myBtnContainer">
+  <button class="btn active" style="background-color: #80136D" onclick="filterSelection('all')"> Tout</button>
+  <% Observation::OBS_COLOR.keys.each do |level|  %>
+      <button class="btn" style="background-color: <%=Observation::OBS_COLOR[level]%>;" onclick="filterSelection('<%=level.downcase %>')"> <%=level%></button>
+  <% end %>
+</div>
+
+<div class="container trigger_popup_fricc">
+  <% @observations.each do |obs| %>
+    <div class="filterDiv obs <%= obs.obs_color.downcase %>" style="border-left: 25px solid <%= Observation::OBS_COLOR[obs.obs_color.to_sym] %>;" data-link-id=<%= obs.id %> data-note-content="<%= obs.note %>" data-note-date="<%= obs.display_date %>">
+      <div clas="text_info_obs">
+        <p class=positionnement id="obs-title"><%= "#{ obs.category }" %></p>
+      </div>
+      <div id='bttns'>
+        <div id='bttn_edit'><%= link_to edit_observation_path(obs), class:"edit_link" do %>
+          <i class="far fa-edit"></i>
+        <% end %>
+        </div>
+        <div class="bas_de_card">
+          <div class="note_card">
+            <h6><%= obs.note %></h6>
+          </div>
+          <div id='bttn_delete'><%= link_to observation_path(obs.id), method: :delete, class:"delete_link", data: { confirm: "Etes-vous sûr(e) ?" } do %>
+            <i class="far fa-trash-alt"></i>
+          </div>
+        <% end %>
+        </div>
+      </div>
+    </div>
+  <%end%>
+</div>
+
+<script>
+filterSelection('all')
+  function filterSelection(c) {
+    var x, i;
+    x = document.getElementsByClassName("filterDiv");
+    if (c == "all") c = "";
+    for (i = 0; i < x.length; i++) {
+      w3RemoveClass(x[i], "show");
+      if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+    }
+  }
+
+  function w3AddClass(element, name) {
+    var i, arr1, arr2;
+    arr1 = element.className.split(" ");
+    arr2 = name.split(" ");
+    for (i = 0; i < arr2.length; i++) {
+      if (arr1.indexOf(arr2[i]) == -1) { element.className += " " + arr2[i]; }
+    }
+  }
+
+  function w3RemoveClass(element, name) {
+    var i, arr1, arr2;
+    arr1 = element.className.split(" ");
+    arr2 = name.split(" ");
+    for (i = 0; i < arr2.length; i++) {
+      while (arr1.indexOf(arr2[i]) > -1) {
+        arr1.splice(arr1.indexOf(arr2[i]), 1);
+      }
+    }
+    element.className = arr1.join(" ");
+  }
+
+  // Add active class to the current button (highlight it)
+  var btnContainer = document.getElementById("myBtnContainer");
+  var btns = btnContainer.getElementsByClassName("btn");
+  for (var i = 0; i < btns.length; i++) {
+    btns[i].addEventListener("click", function () {
+      var current = document.getElementsByClassName(" active");
+      current[0].className = current[0].className.remove(" active");
+      this.className += " active";
+    });
+  }
+
+</script>

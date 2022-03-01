@@ -6,6 +6,11 @@ class ObservationsController < ApplicationController
     @observation.student = @student
   end
 
+  def show
+    @student = Student.find(params[:id])
+    @observation.student = @student
+  end
+
   def create
     @student = Student.find(params[:id])
     @observation = Observation.new(observation_params)

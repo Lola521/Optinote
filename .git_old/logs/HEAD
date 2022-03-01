@@ -1,0 +1,220 @@
+0000000000000000000000000000000000000000 f0b154bc873159faf7facce93a643eccd99c735a GUOLE JING <guole.jing@gmail.com> 1641225379 +0100	commit (initial): Initial commit with devise template from https://github.com/lewagon/rails-templates
+f0b154bc873159faf7facce93a643eccd99c735a 7a386ddd8a7d8cbb4821a243c8c8295e6f9fe674 GUOLE JING <guole.jing@gmail.com> 1641294063 +0100	commit: SSL
+7a386ddd8a7d8cbb4821a243c8c8295e6f9fe674 d7ba8a7665cf7b37335f7e85144df035c64cd90f GUOLE JING <guole.jing@gmail.com> 1641294555 +0100	pull origin master: Merge made by the 'recursive' strategy.
+d7ba8a7665cf7b37335f7e85144df035c64cd90f d7ba8a7665cf7b37335f7e85144df035c64cd90f GUOLE JING <guole.jing@gmail.com> 1641295511 +0100	checkout: moving from master to show-student
+d7ba8a7665cf7b37335f7e85144df035c64cd90f d7ba8a7665cf7b37335f7e85144df035c64cd90f GUOLE JING <guole.jing@gmail.com> 1641296827 +0100	checkout: moving from show-student to master
+d7ba8a7665cf7b37335f7e85144df035c64cd90f a1ca41e424dccd41ec7c550130fd9a780e0be03d GUOLE JING <guole.jing@gmail.com> 1641296838 +0100	pull origin master: Merge made by the 'recursive' strategy.
+a1ca41e424dccd41ec7c550130fd9a780e0be03d d7ba8a7665cf7b37335f7e85144df035c64cd90f GUOLE JING <guole.jing@gmail.com> 1641297061 +0100	checkout: moving from master to show-student
+d7ba8a7665cf7b37335f7e85144df035c64cd90f a1ca41e424dccd41ec7c550130fd9a780e0be03d GUOLE JING <guole.jing@gmail.com> 1641297070 +0100	merge master: Fast-forward
+a1ca41e424dccd41ec7c550130fd9a780e0be03d a1ca41e424dccd41ec7c550130fd9a780e0be03d GUOLE JING <guole.jing@gmail.com> 1641304437 +0100	checkout: moving from show-student to master
+a1ca41e424dccd41ec7c550130fd9a780e0be03d f7c717fdfd552448b9921b71b35d734b5babcc15 GUOLE JING <guole.jing@gmail.com> 1641304444 +0100	pull origin master: Merge made by the 'recursive' strategy.
+f7c717fdfd552448b9921b71b35d734b5babcc15 a1ca41e424dccd41ec7c550130fd9a780e0be03d GUOLE JING <guole.jing@gmail.com> 1641304457 +0100	checkout: moving from master to show-student
+a1ca41e424dccd41ec7c550130fd9a780e0be03d f7c717fdfd552448b9921b71b35d734b5babcc15 GUOLE JING <guole.jing@gmail.com> 1641304462 +0100	merge master: Fast-forward
+f7c717fdfd552448b9921b71b35d734b5babcc15 f7c717fdfd552448b9921b71b35d734b5babcc15 GUOLE JING <guole.jing@gmail.com> 1641306155 +0100	checkout: moving from show-student to master
+f7c717fdfd552448b9921b71b35d734b5babcc15 f7c717fdfd552448b9921b71b35d734b5babcc15 GUOLE JING <guole.jing@gmail.com> 1641308140 +0100	checkout: moving from master to show-student
+f7c717fdfd552448b9921b71b35d734b5babcc15 f7c717fdfd552448b9921b71b35d734b5babcc15 GUOLE JING <guole.jing@gmail.com> 1641309423 +0100	reset: moving to HEAD
+f7c717fdfd552448b9921b71b35d734b5babcc15 c383b821e8fb32301449ab0b62992ba97dc11692 GUOLE JING <guole.jing@gmail.com> 1641309451 +0100	pull origin master: Merge made by the 'recursive' strategy.
+c383b821e8fb32301449ab0b62992ba97dc11692 f7c717fdfd552448b9921b71b35d734b5babcc15 GUOLE JING <guole.jing@gmail.com> 1641309493 +0100	checkout: moving from show-student to master
+f7c717fdfd552448b9921b71b35d734b5babcc15 e18b425ed5d38126dc6740b43bf89fbf8ce2a941 GUOLE JING <guole.jing@gmail.com> 1641309507 +0100	pull origin master: Merge made by the 'recursive' strategy.
+e18b425ed5d38126dc6740b43bf89fbf8ce2a941 c383b821e8fb32301449ab0b62992ba97dc11692 GUOLE JING <guole.jing@gmail.com> 1641309553 +0100	checkout: moving from master to show-student
+c383b821e8fb32301449ab0b62992ba97dc11692 71776262c57d531442181e80ea5839069fb9d353 GUOLE JING <guole.jing@gmail.com> 1641312274 +0100	commit: creation of show student
+71776262c57d531442181e80ea5839069fb9d353 e18b425ed5d38126dc6740b43bf89fbf8ce2a941 GUOLE JING <guole.jing@gmail.com> 1641312685 +0100	checkout: moving from show-student to master
+e18b425ed5d38126dc6740b43bf89fbf8ce2a941 df2ceda6f47bb843e867121bf493bb57347b604f GUOLE JING <guole.jing@gmail.com> 1641312699 +0100	pull origin master: Merge made by the 'recursive' strategy.
+df2ceda6f47bb843e867121bf493bb57347b604f df2ceda6f47bb843e867121bf493bb57347b604f GUOLE JING <guole.jing@gmail.com> 1641313371 +0100	checkout: moving from master to show-student-2
+df2ceda6f47bb843e867121bf493bb57347b604f df2ceda6f47bb843e867121bf493bb57347b604f GUOLE JING <guole.jing@gmail.com> 1641313577 +0100	reset: moving to HEAD
+df2ceda6f47bb843e867121bf493bb57347b604f df2ceda6f47bb843e867121bf493bb57347b604f GUOLE JING <guole.jing@gmail.com> 1641314017 +0100	checkout: moving from show-student-2 to master
+df2ceda6f47bb843e867121bf493bb57347b604f df2ceda6f47bb843e867121bf493bb57347b604f GUOLE JING <guole.jing@gmail.com> 1641314041 +0100	checkout: moving from master to show-student-2
+df2ceda6f47bb843e867121bf493bb57347b604f 71776262c57d531442181e80ea5839069fb9d353 GUOLE JING <guole.jing@gmail.com> 1641315273 +0100	checkout: moving from show-student-2 to show-student
+71776262c57d531442181e80ea5839069fb9d353 71776262c57d531442181e80ea5839069fb9d353 GUOLE JING <guole.jing@gmail.com> 1641315413 +0100	checkout: moving from show-student to show-student-image
+71776262c57d531442181e80ea5839069fb9d353 c1c7c488803126a8c7d9ab51c0a983c213f1dd49 GUOLE JING <guole.jing@gmail.com> 1641320192 +0100	commit: show of student with a photo first last name class
+c1c7c488803126a8c7d9ab51c0a983c213f1dd49 df2ceda6f47bb843e867121bf493bb57347b604f GUOLE JING <guole.jing@gmail.com> 1641320390 +0100	checkout: moving from show-student-image to master
+df2ceda6f47bb843e867121bf493bb57347b604f 8c5855e6746e8b74d5bbe8285d6c44c0d6dc734a GUOLE JING <guole.jing@gmail.com> 1641320413 +0100	pull origin master: Merge made by the 'recursive' strategy.
+8c5855e6746e8b74d5bbe8285d6c44c0d6dc734a c1c7c488803126a8c7d9ab51c0a983c213f1dd49 GUOLE JING <guole.jing@gmail.com> 1641320442 +0100	checkout: moving from master to show-student-image
+c1c7c488803126a8c7d9ab51c0a983c213f1dd49 3e9c3dd809211cf11e751512ff5b0cee5b872338 GUOLE JING <guole.jing@gmail.com> 1641320459 +0100	merge master: Merge made by the 'recursive' strategy.
+3e9c3dd809211cf11e751512ff5b0cee5b872338 8c5855e6746e8b74d5bbe8285d6c44c0d6dc734a GUOLE JING <guole.jing@gmail.com> 1641380053 +0100	checkout: moving from show-student-image to master
+8c5855e6746e8b74d5bbe8285d6c44c0d6dc734a 8c5855e6746e8b74d5bbe8285d6c44c0d6dc734a GUOLE JING <guole.jing@gmail.com> 1641380365 +0100	reset: moving to HEAD
+8c5855e6746e8b74d5bbe8285d6c44c0d6dc734a 7aa70e8b7468fc9ee685ad6b4fdd23e319254888 GUOLE JING <guole.jing@gmail.com> 1641381081 +0100	pull origin master: Merge made by the 'recursive' strategy.
+7aa70e8b7468fc9ee685ad6b4fdd23e319254888 7aa70e8b7468fc9ee685ad6b4fdd23e319254888 GUOLE JING <guole.jing@gmail.com> 1641381215 +0100	checkout: moving from master to show-student-obs
+7aa70e8b7468fc9ee685ad6b4fdd23e319254888 7aa70e8b7468fc9ee685ad6b4fdd23e319254888 GUOLE JING <guole.jing@gmail.com> 1641381530 +0100	checkout: moving from show-student-obs to master
+7aa70e8b7468fc9ee685ad6b4fdd23e319254888 d26d1ac5f114ccfde4708c794795abfcd704399c GUOLE JING <guole.jing@gmail.com> 1641381560 +0100	pull origin master: Merge made by the 'recursive' strategy.
+d26d1ac5f114ccfde4708c794795abfcd704399c 7aa70e8b7468fc9ee685ad6b4fdd23e319254888 GUOLE JING <guole.jing@gmail.com> 1641381601 +0100	checkout: moving from master to show-student-obs
+7aa70e8b7468fc9ee685ad6b4fdd23e319254888 d26d1ac5f114ccfde4708c794795abfcd704399c GUOLE JING <guole.jing@gmail.com> 1641381658 +0100	merge master: Fast-forward
+d26d1ac5f114ccfde4708c794795abfcd704399c d26d1ac5f114ccfde4708c794795abfcd704399c GUOLE JING <guole.jing@gmail.com> 1641389655 +0100	checkout: moving from show-student-obs to master
+d26d1ac5f114ccfde4708c794795abfcd704399c b810fdc929029734a4dd953dde2fdad35d6a0f21 GUOLE JING <guole.jing@gmail.com> 1641389664 +0100	pull origin master: Merge made by the 'recursive' strategy.
+b810fdc929029734a4dd953dde2fdad35d6a0f21 d26d1ac5f114ccfde4708c794795abfcd704399c GUOLE JING <guole.jing@gmail.com> 1641389781 +0100	checkout: moving from master to show-student-obs
+d26d1ac5f114ccfde4708c794795abfcd704399c b810fdc929029734a4dd953dde2fdad35d6a0f21 GUOLE JING <guole.jing@gmail.com> 1641403396 +0100	checkout: moving from show-student-obs to master
+b810fdc929029734a4dd953dde2fdad35d6a0f21 d26d1ac5f114ccfde4708c794795abfcd704399c GUOLE JING <guole.jing@gmail.com> 1641403556 +0100	checkout: moving from master to show-student-obs
+d26d1ac5f114ccfde4708c794795abfcd704399c 99b3d28aae9351bb832c8f8e23675891db497781 GUOLE JING <guole.jing@gmail.com> 1641403636 +0100	commit: controller obs, card for showstudent
+99b3d28aae9351bb832c8f8e23675891db497781 b810fdc929029734a4dd953dde2fdad35d6a0f21 GUOLE JING <guole.jing@gmail.com> 1641404154 +0100	checkout: moving from show-student-obs to master
+b810fdc929029734a4dd953dde2fdad35d6a0f21 99b3d28aae9351bb832c8f8e23675891db497781 GUOLE JING <guole.jing@gmail.com> 1641461692 +0100	checkout: moving from master to show-student-obs
+99b3d28aae9351bb832c8f8e23675891db497781 b810fdc929029734a4dd953dde2fdad35d6a0f21 GUOLE JING <guole.jing@gmail.com> 1641464777 +0100	checkout: moving from show-student-obs to master
+b810fdc929029734a4dd953dde2fdad35d6a0f21 309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 GUOLE JING <guole.jing@gmail.com> 1641464786 +0100	pull origin master: Merge made by the 'recursive' strategy.
+309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 99b3d28aae9351bb832c8f8e23675891db497781 GUOLE JING <guole.jing@gmail.com> 1641464844 +0100	checkout: moving from master to show-student-obs
+99b3d28aae9351bb832c8f8e23675891db497781 309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 GUOLE JING <guole.jing@gmail.com> 1641464865 +0100	merge master: Fast-forward
+309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 GUOLE JING <guole.jing@gmail.com> 1641464880 +0100	checkout: moving from show-student-obs to master
+309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 GUOLE JING <guole.jing@gmail.com> 1641466111 +0100	checkout: moving from master to show-student-obs-mise-en-form
+309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 GUOLE JING <guole.jing@gmail.com> 1641466495 +0100	checkout: moving from show-student-obs-mise-en-form to master
+309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 GUOLE JING <guole.jing@gmail.com> 1641466559 +0100	checkout: moving from master to show-student-obs-mise-en-form
+309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 GUOLE JING <guole.jing@gmail.com> 1641470153 +0100	checkout: moving from show-student-obs-mise-en-form to master
+309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 GUOLE JING <guole.jing@gmail.com> 1641470224 +0100	checkout: moving from master to show-student-obs-mise-en-form
+309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 a0309bf0ad9c50fa3bcf036a87474bf4cb7d982f GUOLE JING <guole.jing@gmail.com> 1641484341 +0100	commit: mis a jour show-student
+a0309bf0ad9c50fa3bcf036a87474bf4cb7d982f 309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 GUOLE JING <guole.jing@gmail.com> 1641487198 +0100	checkout: moving from show-student-obs-mise-en-form to master
+309594abf38cc0e56ea05e38e0c5246ea6a5bfc5 95a32f175757699aa3151abbbdd6182ff4405847 GUOLE JING <guole.jing@gmail.com> 1641487208 +0100	pull origin master: Fast-forward
+95a32f175757699aa3151abbbdd6182ff4405847 4b469ce94e2323547c09ea09d6b05b63b5977326 GUOLE JING <guole.jing@gmail.com> 1641488233 +0100	pull origin master: Fast-forward
+4b469ce94e2323547c09ea09d6b05b63b5977326 44e48ae7018a90959f2bb64900aece6670be59bf GUOLE JING <guole.jing@gmail.com> 1641551316 +0100	pull origin master: Fast-forward
+44e48ae7018a90959f2bb64900aece6670be59bf 44e48ae7018a90959f2bb64900aece6670be59bf GUOLE JING <guole.jing@gmail.com> 1641552637 +0100	checkout: moving from master to heroku-test
+44e48ae7018a90959f2bb64900aece6670be59bf 32703b8b3bc5b41cbf8ff7f5e52984cd2a439df7 GUOLE JING <guole.jing@gmail.com> 1641552657 +0100	commit: heroku-test
+32703b8b3bc5b41cbf8ff7f5e52984cd2a439df7 44e48ae7018a90959f2bb64900aece6670be59bf GUOLE JING <guole.jing@gmail.com> 1641552788 +0100	checkout: moving from heroku-test to master
+44e48ae7018a90959f2bb64900aece6670be59bf 298ecec9752100ce8e973d77e9c0e06a0a57f3d7 GUOLE JING <guole.jing@gmail.com> 1641552798 +0100	pull origin master: Fast-forward
+298ecec9752100ce8e973d77e9c0e06a0a57f3d7 32703b8b3bc5b41cbf8ff7f5e52984cd2a439df7 GUOLE JING <guole.jing@gmail.com> 1641553491 +0100	checkout: moving from master to heroku-test
+32703b8b3bc5b41cbf8ff7f5e52984cd2a439df7 693db589e9d3898790e7569f38f3b3490e1b8f5d GUOLE JING <guole.jing@gmail.com> 1641553515 +0100	commit: heroku-test-gemfile
+693db589e9d3898790e7569f38f3b3490e1b8f5d c4cf28e3cd7391d2b498398b5b54bb9bbe439465 GUOLE JING <guole.jing@gmail.com> 1641553644 +0100	pull origin master: Fast-forward
+c4cf28e3cd7391d2b498398b5b54bb9bbe439465 298ecec9752100ce8e973d77e9c0e06a0a57f3d7 GUOLE JING <guole.jing@gmail.com> 1641553668 +0100	checkout: moving from heroku-test to master
+298ecec9752100ce8e973d77e9c0e06a0a57f3d7 c4cf28e3cd7391d2b498398b5b54bb9bbe439465 GUOLE JING <guole.jing@gmail.com> 1641553678 +0100	pull origin master: Fast-forward
+c4cf28e3cd7391d2b498398b5b54bb9bbe439465 c4cf28e3cd7391d2b498398b5b54bb9bbe439465 GUOLE JING <guole.jing@gmail.com> 1641553889 +0100	checkout: moving from master to heroku-test
+c4cf28e3cd7391d2b498398b5b54bb9bbe439465 8cd6abd99e6a06232cabe61fdb6502c3d24ddfc5 GUOLE JING <guole.jing@gmail.com> 1641553913 +0100	commit: heroku-test-3
+8cd6abd99e6a06232cabe61fdb6502c3d24ddfc5 c4cf28e3cd7391d2b498398b5b54bb9bbe439465 GUOLE JING <guole.jing@gmail.com> 1641553931 +0100	checkout: moving from heroku-test to master
+c4cf28e3cd7391d2b498398b5b54bb9bbe439465 8cd6abd99e6a06232cabe61fdb6502c3d24ddfc5 GUOLE JING <guole.jing@gmail.com> 1641554055 +0100	checkout: moving from master to heroku-test
+8cd6abd99e6a06232cabe61fdb6502c3d24ddfc5 c4cf28e3cd7391d2b498398b5b54bb9bbe439465 GUOLE JING <guole.jing@gmail.com> 1641554130 +0100	checkout: moving from heroku-test to master
+c4cf28e3cd7391d2b498398b5b54bb9bbe439465 73bc4c2623bbae60a2c9914d0c7d8adb1be1e0b3 GUOLE JING <guole.jing@gmail.com> 1641554139 +0100	pull origin master: Fast-forward
+73bc4c2623bbae60a2c9914d0c7d8adb1be1e0b3 8cd6abd99e6a06232cabe61fdb6502c3d24ddfc5 GUOLE JING <guole.jing@gmail.com> 1641555271 +0100	checkout: moving from master to heroku-test
+8cd6abd99e6a06232cabe61fdb6502c3d24ddfc5 507d0d7deb70688cb2eb482e3514de0208cd1b63 GUOLE JING <guole.jing@gmail.com> 1641555288 +0100	commit: heroku-test-4
+507d0d7deb70688cb2eb482e3514de0208cd1b63 73bc4c2623bbae60a2c9914d0c7d8adb1be1e0b3 GUOLE JING <guole.jing@gmail.com> 1641555394 +0100	checkout: moving from heroku-test to master
+73bc4c2623bbae60a2c9914d0c7d8adb1be1e0b3 4b61f08c41154013f8088137dd401f7078572364 GUOLE JING <guole.jing@gmail.com> 1641555402 +0100	pull origin master: Fast-forward
+4b61f08c41154013f8088137dd401f7078572364 34ddc743db2d7f90af9bb8654b3330370ec61d1b GUOLE JING <guole.jing@gmail.com> 1641556496 +0100	pull origin master: Fast-forward
+34ddc743db2d7f90af9bb8654b3330370ec61d1b 34ddc743db2d7f90af9bb8654b3330370ec61d1b GUOLE JING <guole.jing@gmail.com> 1641562978 +0100	checkout: moving from master to heroku-test-fini
+34ddc743db2d7f90af9bb8654b3330370ec61d1b ca346771eca629909869828e95e42c64d74f5c68 GUOLE JING <guole.jing@gmail.com> 1641562992 +0100	commit: heroku-fini
+ca346771eca629909869828e95e42c64d74f5c68 34ddc743db2d7f90af9bb8654b3330370ec61d1b GUOLE JING <guole.jing@gmail.com> 1641563001 +0100	checkout: moving from heroku-test-fini to master
+34ddc743db2d7f90af9bb8654b3330370ec61d1b 29edb60529010c1f43a55ddc5a9f806347f99dae GUOLE JING <guole.jing@gmail.com> 1641563487 +0100	pull origin master: Fast-forward
+29edb60529010c1f43a55ddc5a9f806347f99dae 0c2c17f7c8c2e8b50730511f1e5c16daf0bcf4bf GUOLE JING <guole.jing@gmail.com> 1641564688 +0100	pull origin master: Fast-forward
+0c2c17f7c8c2e8b50730511f1e5c16daf0bcf4bf e4d8a614d67eb5214325c7962e059cf3f62f37bb GUOLE JING <guole.jing@gmail.com> 1641564833 +0100	pull origin master: Fast-forward
+e4d8a614d67eb5214325c7962e059cf3f62f37bb fdd8741f644d1b63986d4a2aa24ac94502765a93 GUOLE JING <guole.jing@gmail.com> 1641566294 +0100	pull origin master: Fast-forward
+fdd8741f644d1b63986d4a2aa24ac94502765a93 7ff9d89c920f00b22ab92c489b0bc9cf6126691e GUOLE JING <guole.jing@gmail.com> 1641568502 +0100	pull origin master: Fast-forward
+7ff9d89c920f00b22ab92c489b0bc9cf6126691e 7ff9d89c920f00b22ab92c489b0bc9cf6126691e GUOLE JING <guole.jing@gmail.com> 1641761137 +0100	checkout: moving from master to admin
+7ff9d89c920f00b22ab92c489b0bc9cf6126691e 7ff9d89c920f00b22ab92c489b0bc9cf6126691e GUOLE JING <guole.jing@gmail.com> 1641807287 +0100	checkout: moving from admin to master
+7ff9d89c920f00b22ab92c489b0bc9cf6126691e fe7ca6ec7b75761aae1436bb08dd5b2971810bb2 GUOLE JING <guole.jing@gmail.com> 1641807302 +0100	pull origin master: Fast-forward
+fe7ca6ec7b75761aae1436bb08dd5b2971810bb2 7ff9d89c920f00b22ab92c489b0bc9cf6126691e GUOLE JING <guole.jing@gmail.com> 1641807402 +0100	checkout: moving from master to admin
+7ff9d89c920f00b22ab92c489b0bc9cf6126691e fe7ca6ec7b75761aae1436bb08dd5b2971810bb2 GUOLE JING <guole.jing@gmail.com> 1641807503 +0100	merge master: Fast-forward
+fe7ca6ec7b75761aae1436bb08dd5b2971810bb2 9ea74e8b1612dbaaf03f7ed90fde5c3708d529b5 GUOLE JING <guole.jing@gmail.com> 1641808230 +0100	commit: admin+blazer+show/student/category
+9ea74e8b1612dbaaf03f7ed90fde5c3708d529b5 fe7ca6ec7b75761aae1436bb08dd5b2971810bb2 GUOLE JING <guole.jing@gmail.com> 1641808321 +0100	checkout: moving from admin to master
+fe7ca6ec7b75761aae1436bb08dd5b2971810bb2 9eb41ae72d9b1f0358fc4dee4b2a257a78792409 GUOLE JING <guole.jing@gmail.com> 1641808329 +0100	pull origin master: Fast-forward
+9eb41ae72d9b1f0358fc4dee4b2a257a78792409 9eb41ae72d9b1f0358fc4dee4b2a257a78792409 GUOLE JING <guole.jing@gmail.com> 1641808374 +0100	checkout: moving from master to student-show-pop-up
+9eb41ae72d9b1f0358fc4dee4b2a257a78792409 ca3e3f377905d3d8b91ed35d58814b57c8c22153 GUOLE JING <guole.jing@gmail.com> 1641810929 +0100	commit: date-desc
+ca3e3f377905d3d8b91ed35d58814b57c8c22153 8f852f371cb95b7606c7a35b070af7750fc689e0 GUOLE JING <guole.jing@gmail.com> 1641812248 +0100	commit: seed-admin-true-guole-admin-valentin
+8f852f371cb95b7606c7a35b070af7750fc689e0 9eb41ae72d9b1f0358fc4dee4b2a257a78792409 GUOLE JING <guole.jing@gmail.com> 1641812522 +0100	checkout: moving from student-show-pop-up to master
+9eb41ae72d9b1f0358fc4dee4b2a257a78792409 7b3aadcee699a60df416ee8f0483c0734eb205fe GUOLE JING <guole.jing@gmail.com> 1641812529 +0100	pull origin master: Fast-forward
+7b3aadcee699a60df416ee8f0483c0734eb205fe 7b3aadcee699a60df416ee8f0483c0734eb205fe GUOLE JING <guole.jing@gmail.com> 1641815501 +0100	checkout: moving from master to pop-up-be
+7b3aadcee699a60df416ee8f0483c0734eb205fe 7b3aadcee699a60df416ee8f0483c0734eb205fe GUOLE JING <guole.jing@gmail.com> 1641816590 +0100	checkout: moving from pop-up-be to master
+7b3aadcee699a60df416ee8f0483c0734eb205fe 30274a74bd65cc88e8944ade3f9ba9173b6248f5 GUOLE JING <guole.jing@gmail.com> 1641816614 +0100	pull origin master: Fast-forward
+30274a74bd65cc88e8944ade3f9ba9173b6248f5 30274a74bd65cc88e8944ade3f9ba9173b6248f5 GUOLE JING <guole.jing@gmail.com> 1641817258 +0100	checkout: moving from master to pop-up-observation-note
+30274a74bd65cc88e8944ade3f9ba9173b6248f5 30274a74bd65cc88e8944ade3f9ba9173b6248f5 GUOLE JING <guole.jing@gmail.com> 1641833612 +0100	checkout: moving from pop-up-observation-note to master
+30274a74bd65cc88e8944ade3f9ba9173b6248f5 50cb46bb7057ac89ce8fa008eb65f4cc9d54b0c0 GUOLE JING <guole.jing@gmail.com> 1641834176 +0100	commit: pop up show student obs note
+50cb46bb7057ac89ce8fa008eb65f4cc9d54b0c0 2115d0389099cbb069e38184ec834139d6cb4f11 GUOLE JING <guole.jing@gmail.com> 1641837538 +0100	commit (merge): confit master
+2115d0389099cbb069e38184ec834139d6cb4f11 8f852f371cb95b7606c7a35b070af7750fc689e0 GUOLE JING <guole.jing@gmail.com> 1641837581 +0100	checkout: moving from master to student-show-pop-up
+8f852f371cb95b7606c7a35b070af7750fc689e0 30274a74bd65cc88e8944ade3f9ba9173b6248f5 GUOLE JING <guole.jing@gmail.com> 1641837741 +0100	checkout: moving from student-show-pop-up to pop-up-observation-note
+30274a74bd65cc88e8944ade3f9ba9173b6248f5 2115d0389099cbb069e38184ec834139d6cb4f11 GUOLE JING <guole.jing@gmail.com> 1641837891 +0100	checkout: moving from pop-up-observation-note to master
+2115d0389099cbb069e38184ec834139d6cb4f11 2115d0389099cbb069e38184ec834139d6cb4f11 GUOLE JING <guole.jing@gmail.com> 1641837953 +0100	checkout: moving from master to couleur-pop-up
+2115d0389099cbb069e38184ec834139d6cb4f11 addcbc1af99421ecc0699bb6359b379260794b60 GUOLE JING <guole.jing@gmail.com> 1641838782 +0100	commit: couleur-pop-up
+addcbc1af99421ecc0699bb6359b379260794b60 2115d0389099cbb069e38184ec834139d6cb4f11 GUOLE JING <guole.jing@gmail.com> 1641840235 +0100	checkout: moving from couleur-pop-up to master
+2115d0389099cbb069e38184ec834139d6cb4f11 b2f5010bd86dfeaf271bd6759846b0aa43f50a77 GUOLE JING <guole.jing@gmail.com> 1641840244 +0100	pull origin master: Fast-forward
+b2f5010bd86dfeaf271bd6759846b0aa43f50a77 b2f5010bd86dfeaf271bd6759846b0aa43f50a77 GUOLE JING <guole.jing@gmail.com> 1641891158 +0100	checkout: moving from master to pop-up-finalisation
+b2f5010bd86dfeaf271bd6759846b0aa43f50a77 38a90b033c1842c057c14ceb2d1ae4fd4a531a33 GUOLE JING <guole.jing@gmail.com> 1641891201 +0100	commit: _colors.scss mettre dans le _myconfig.scss
+38a90b033c1842c057c14ceb2d1ae4fd4a531a33 38a90b033c1842c057c14ceb2d1ae4fd4a531a33 GUOLE JING <guole.jing@gmail.com> 1641898961 +0100	reset: moving to HEAD
+38a90b033c1842c057c14ceb2d1ae4fd4a531a33 38a90b033c1842c057c14ceb2d1ae4fd4a531a33 GUOLE JING <guole.jing@gmail.com> 1641899232 +0100	checkout: moving from pop-up-finalisation to fonts-component-modal_obs
+38a90b033c1842c057c14ceb2d1ae4fd4a531a33 7be9ed860d1cc461e6cbe1ce628799759dabd126 GUOLE JING <guole.jing@gmail.com> 1641909894 +0100	commit: pop-up-joli
+7be9ed860d1cc461e6cbe1ce628799759dabd126 b2f5010bd86dfeaf271bd6759846b0aa43f50a77 GUOLE JING <guole.jing@gmail.com> 1641910900 +0100	checkout: moving from fonts-component-modal_obs to master
+b2f5010bd86dfeaf271bd6759846b0aa43f50a77 90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 GUOLE JING <guole.jing@gmail.com> 1641911316 +0100	pull origin master: Fast-forward
+90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 GUOLE JING <guole.jing@gmail.com> 1641911520 +0100	checkout: moving from master to correction-pop-up
+90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 59054f5c8c6de6ab9beb80ef54758459140f7ad5 GUOLE JING <guole.jing@gmail.com> 1641911536 +0100	commit: correction-pop-up
+59054f5c8c6de6ab9beb80ef54758459140f7ad5 f007525db62ade9a0fb49789d88490076bb23b92 GUOLE JING <guole.jing@gmail.com> 1641912879 +0100	commit: correction-po-up-suite
+f007525db62ade9a0fb49789d88490076bb23b92 90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 GUOLE JING <guole.jing@gmail.com> 1641912886 +0100	checkout: moving from correction-pop-up to master
+90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 f007525db62ade9a0fb49789d88490076bb23b92 GUOLE JING <guole.jing@gmail.com> 1641913038 +0100	checkout: moving from master to correction-pop-up
+f007525db62ade9a0fb49789d88490076bb23b92 90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 GUOLE JING <guole.jing@gmail.com> 1641913278 +0100	checkout: moving from correction-pop-up to master
+90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 GUOLE JING <guole.jing@gmail.com> 1641914037 +0100	checkout: moving from master to typed-homepage
+90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 4b015ef99f926a8e9bf65548ce156aa945a057c8 GUOLE JING <guole.jing@gmail.com> 1641983399 +0100	commit: homepage-js-dinamic
+4b015ef99f926a8e9bf65548ce156aa945a057c8 dcce0619c0acbd4e0e6017d5d37b586e1842022d GUOLE JING <guole.jing@gmail.com> 1641983588 +0100	commit: homepage-js-bonjour
+dcce0619c0acbd4e0e6017d5d37b586e1842022d 90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 GUOLE JING <guole.jing@gmail.com> 1641984805 +0100	checkout: moving from typed-homepage to master
+90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 GUOLE JING <guole.jing@gmail.com> 1641984836 +0100	checkout: moving from master to checklist-set-up-for-wagon
+90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 a66c19def85fe82ae05fb00a85555c58faab0a7e GUOLE JING <guole.jing@gmail.com> 1641989890 +0100	commit: pause-midi
+a66c19def85fe82ae05fb00a85555c58faab0a7e 90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 GUOLE JING <guole.jing@gmail.com> 1641996146 +0100	checkout: moving from checklist-set-up-for-wagon to master
+90c8aabbb229b9fba6dc699de8f3eaa0cd63fd69 210e6dcd39981964121460dcb10f17e856b15606 GUOLE JING <guole.jing@gmail.com> 1641996308 +0100	pull origin master: Fast-forward
+210e6dcd39981964121460dcb10f17e856b15606 210e6dcd39981964121460dcb10f17e856b15606 GUOLE JING <guole.jing@gmail.com> 1641996800 +0100	checkout: moving from master to tapy-speed
+210e6dcd39981964121460dcb10f17e856b15606 61046ece349ad478840e81597b1a22dc60234f5d GUOLE JING <guole.jing@gmail.com> 1641996819 +0100	commit: type-speed
+61046ece349ad478840e81597b1a22dc60234f5d a66c19def85fe82ae05fb00a85555c58faab0a7e GUOLE JING <guole.jing@gmail.com> 1641996861 +0100	checkout: moving from tapy-speed to checklist-set-up-for-wagon
+a66c19def85fe82ae05fb00a85555c58faab0a7e a04d85b678c4fd1bcc550e54281fa6ee0e9a073b GUOLE JING <guole.jing@gmail.com> 1642000331 +0100	merge master: Merge made by the 'recursive' strategy.
+a04d85b678c4fd1bcc550e54281fa6ee0e9a073b fea1eed065b4f5783f625d887c765f70d98e1e0a GUOLE JING <guole.jing@gmail.com> 1642000366 +0100	commit: dashboard
+fea1eed065b4f5783f625d887c765f70d98e1e0a 8ea14d54b2485ed60d85e1b4653f84e53a43626d GUOLE JING <guole.jing@gmail.com> 1642001151 +0100	commit: dashboard
+8ea14d54b2485ed60d85e1b4653f84e53a43626d 12efe155e8f411a8be46e625939f478846ec8a77 GUOLE JING <guole.jing@gmail.com> 1642002130 +0100	commit: nettoyage dashboard.html.erb
+12efe155e8f411a8be46e625939f478846ec8a77 228a38cd8b940f9e5289d26bda0a80e43ca6f689 GUOLE JING <guole.jing@gmail.com> 1642004013 +0100	commit: favicon_tag
+228a38cd8b940f9e5289d26bda0a80e43ca6f689 de220110712b1916eadc5cf05c368951bc37f3dd GUOLE JING <guole.jing@gmail.com> 1642006161 +0100	commit: finalisation checklist
+de220110712b1916eadc5cf05c368951bc37f3dd 210e6dcd39981964121460dcb10f17e856b15606 GUOLE JING <guole.jing@gmail.com> 1642009612 +0100	checkout: moving from checklist-set-up-for-wagon to master
+210e6dcd39981964121460dcb10f17e856b15606 8952b0a4237654399bb0f6e557db9279cfce16fd GUOLE JING <guole.jing@gmail.com> 1642009630 +0100	pull origin master: Fast-forward
+8952b0a4237654399bb0f6e557db9279cfce16fd 8952b0a4237654399bb0f6e557db9279cfce16fd GUOLE JING <guole.jing@gmail.com> 1642010731 +0100	checkout: moving from master to heroku-error
+8952b0a4237654399bb0f6e557db9279cfce16fd 3e634c519c27639dbb4de03b61dfb611bd6557b4 GUOLE JING <guole.jing@gmail.com> 1642010742 +0100	commit: heroku-error
+3e634c519c27639dbb4de03b61dfb611bd6557b4 8952b0a4237654399bb0f6e557db9279cfce16fd GUOLE JING <guole.jing@gmail.com> 1642075127 +0100	checkout: moving from heroku-error to master
+8952b0a4237654399bb0f6e557db9279cfce16fd f0e947f4996d5fc801605b00d9488699f7b9e247 GUOLE JING <guole.jing@gmail.com> 1642075601 +0100	pull origin master: Fast-forward
+f0e947f4996d5fc801605b00d9488699f7b9e247 d9db85c5dca947e88edb40613af3295280fe2456 GUOLE JING <guole.jing@gmail.com> 1642075881 +0100	pull origin master: Fast-forward
+d9db85c5dca947e88edb40613af3295280fe2456 ea160b7562d47ad243ffa12eb5fa1901927270db GUOLE JING <guole.jing@gmail.com> 1642084152 +0100	pull origin master: Fast-forward
+ea160b7562d47ad243ffa12eb5fa1901927270db a33f3a18aec6182382a4893a290624b8c1b5498b GUOLE JING <guole.jing@gmail.com> 1642092003 +0100	pull origin master: Fast-forward
+a33f3a18aec6182382a4893a290624b8c1b5498b b6be80bf91c5cfa7257be04b51ab33877feb6645 GUOLE JING <guole.jing@gmail.com> 1642093581 +0100	pull origin master: Fast-forward
+b6be80bf91c5cfa7257be04b51ab33877feb6645 05cf6007b9c24f12734ddc492f611325df435257 GUOLE JING <guole.jing@gmail.com> 1642093879 +0100	pull origin master: Fast-forward
+05cf6007b9c24f12734ddc492f611325df435257 7ba94d4f1e9da9c815c91097540900bca2603ef5 GUOLE JING <guole.jing@gmail.com> 1642435466 +0100	pull origin master: Fast-forward
+7ba94d4f1e9da9c815c91097540900bca2603ef5 ea81d7cb906bc7e4e90d5c7d6692e359866f815c GUOLE JING <guole.jing@gmail.com> 1642438224 +0100	pull origin master: Fast-forward
+ea81d7cb906bc7e4e90d5c7d6692e359866f815c ea81d7cb906bc7e4e90d5c7d6692e359866f815c GUOLE JING <guole.jing@gmail.com> 1642758632 +0100	checkout: moving from master to user-devise
+ea81d7cb906bc7e4e90d5c7d6692e359866f815c 513792cdf51a1314e02f16a2dfd75fc35fc9b5b9 GUOLE JING <guole.jing@gmail.com> 1642764472 +0100	commit: devise-view
+513792cdf51a1314e02f16a2dfd75fc35fc9b5b9 630259697dba4d86b7165df351e056d00ffa14fc GUOLE JING <guole.jing@gmail.com> 1643044194 +0100	commit: user-devise-prtsc
+630259697dba4d86b7165df351e056d00ffa14fc 630259697dba4d86b7165df351e056d00ffa14fc GUOLE JING <guole.jing@gmail.com> 1643130083 +0100	reset: moving to HEAD
+630259697dba4d86b7165df351e056d00ffa14fc ea81d7cb906bc7e4e90d5c7d6692e359866f815c GUOLE JING <guole.jing@gmail.com> 1643130094 +0100	checkout: moving from user-devise to master
+ea81d7cb906bc7e4e90d5c7d6692e359866f815c ea81d7cb906bc7e4e90d5c7d6692e359866f815c GUOLE JING <guole.jing@gmail.com> 1643134385 +0100	checkout: moving from master to compte-prof-enlever-validates
+ea81d7cb906bc7e4e90d5c7d6692e359866f815c 5234500af1125eeee80492330e6c7f306c6279b9 GUOLE JING <guole.jing@gmail.com> 1643134439 +0100	commit: enlever validates pour prof
+5234500af1125eeee80492330e6c7f306c6279b9 ea81d7cb906bc7e4e90d5c7d6692e359866f815c GUOLE JING <guole.jing@gmail.com> 1643134472 +0100	checkout: moving from compte-prof-enlever-validates to master
+ea81d7cb906bc7e4e90d5c7d6692e359866f815c 2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c GUOLE JING <guole.jing@gmail.com> 1643134482 +0100	pull origin master: Fast-forward
+2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c 2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c GUOLE JING <guole.jing@gmail.com> 1643134712 +0100	checkout: moving from master to crud-eleve
+2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c 152c20b18ec814a8313cd4c84e80209a259ce169 GUOLE JING <guole.jing@gmail.com> 1643137666 +0100	commit: student-new-simple-form
+152c20b18ec814a8313cd4c84e80209a259ce169 2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c GUOLE JING <guole.jing@gmail.com> 1643199428 +0100	checkout: moving from crud-eleve to master
+2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c 152c20b18ec814a8313cd4c84e80209a259ce169 GUOLE JING <guole.jing@gmail.com> 1643199478 +0100	checkout: moving from master to crud-eleve
+152c20b18ec814a8313cd4c84e80209a259ce169 55961e153560000afdf0df27b8715c7cc9edd143 GUOLE JING <guole.jing@gmail.com> 1643209393 +0100	commit: crud eleve
+55961e153560000afdf0df27b8715c7cc9edd143 87fa24f688c922e17ea224d30367198ddc090898 GUOLE JING <guole.jing@gmail.com> 1643412611 +0100	commit: crud-eleve continue
+87fa24f688c922e17ea224d30367198ddc090898 5234500af1125eeee80492330e6c7f306c6279b9 GUOLE JING <guole.jing@gmail.com> 1643412638 +0100	checkout: moving from crud-eleve to compte-prof-enlever-validates
+5234500af1125eeee80492330e6c7f306c6279b9 87fa24f688c922e17ea224d30367198ddc090898 GUOLE JING <guole.jing@gmail.com> 1643412769 +0100	checkout: moving from compte-prof-enlever-validates to crud-eleve
+87fa24f688c922e17ea224d30367198ddc090898 3ffbe9e95498deb5a5f6bc15a257a5b22c705166 GUOLE JING <guole.jing@gmail.com> 1643420187 +0100	commit: students crud
+3ffbe9e95498deb5a5f6bc15a257a5b22c705166 4449bc706c0ace0677e2a018a8c88a7e554c7b99 GUOLE JING <guole.jing@gmail.com> 1643421972 +0100	commit: pour merge
+4449bc706c0ace0677e2a018a8c88a7e554c7b99 2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c GUOLE JING <guole.jing@gmail.com> 1643421980 +0100	checkout: moving from crud-eleve to master
+2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c 4449bc706c0ace0677e2a018a8c88a7e554c7b99 GUOLE JING <guole.jing@gmail.com> 1644058675 +0100	checkout: moving from master to crud-eleve
+4449bc706c0ace0677e2a018a8c88a7e554c7b99 f4d6bc2aa759c9c017af2bef60feb7824170382e GUOLE JING <guole.jing@gmail.com> 1644097052 +0100	commit: crud eleve fait
+f4d6bc2aa759c9c017af2bef60feb7824170382e 2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c GUOLE JING <guole.jing@gmail.com> 1644162603 +0100	checkout: moving from crud-eleve to master
+2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c 2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c GUOLE JING <guole.jing@gmail.com> 1644167227 +0100	checkout: moving from master to admin-compte
+2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c fe081496e8056fa6ffa9ae0b37749557173cc8fc GUOLE JING <guole.jing@gmail.com> 1644167247 +0100	commit: admin-compte-ajouter
+fe081496e8056fa6ffa9ae0b37749557173cc8fc 2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c GUOLE JING <guole.jing@gmail.com> 1644167858 +0100	checkout: moving from admin-compte to master
+2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c 5234500af1125eeee80492330e6c7f306c6279b9 GUOLE JING <guole.jing@gmail.com> 1644168047 +0100	checkout: moving from master to compte-prof-enlever-validates
+5234500af1125eeee80492330e6c7f306c6279b9 35f52c968985436fd9f8825fd16f233a158a648f GUOLE JING <guole.jing@gmail.com> 1644168255 +0100	pull origin master: Fast-forward
+35f52c968985436fd9f8825fd16f233a158a648f 2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c GUOLE JING <guole.jing@gmail.com> 1644168281 +0100	checkout: moving from compte-prof-enlever-validates to master
+2fa21e1241639bfcde72b08b9b9fb4430f5e2b2c 35f52c968985436fd9f8825fd16f233a158a648f GUOLE JING <guole.jing@gmail.com> 1644168285 +0100	pull origin master: Fast-forward
+35f52c968985436fd9f8825fd16f233a158a648f 35f52c968985436fd9f8825fd16f233a158a648f GUOLE JING <guole.jing@gmail.com> 1644168295 +0100	checkout: moving from master to compte-prof-enlever-validates
+35f52c968985436fd9f8825fd16f233a158a648f 35f52c968985436fd9f8825fd16f233a158a648f GUOLE JING <guole.jing@gmail.com> 1644168937 +0100	checkout: moving from compte-prof-enlever-validates to master
+35f52c968985436fd9f8825fd16f233a158a648f 35f52c968985436fd9f8825fd16f233a158a648f GUOLE JING <guole.jing@gmail.com> 1644306702 +0100	checkout: moving from master to creer-obs-pour-eleve
+35f52c968985436fd9f8825fd16f233a158a648f f4d6bc2aa759c9c017af2bef60feb7824170382e GUOLE JING <guole.jing@gmail.com> 1644306978 +0100	checkout: moving from creer-obs-pour-eleve to crud-eleve
+f4d6bc2aa759c9c017af2bef60feb7824170382e 6a8cda552e3043d71572d90a9f3b1b83854e0d5f GUOLE JING <guole.jing@gmail.com> 1644307393 +0100	commit: new path students
+6a8cda552e3043d71572d90a9f3b1b83854e0d5f 35f52c968985436fd9f8825fd16f233a158a648f GUOLE JING <guole.jing@gmail.com> 1644307398 +0100	checkout: moving from crud-eleve to master
+35f52c968985436fd9f8825fd16f233a158a648f 6a8cda552e3043d71572d90a9f3b1b83854e0d5f GUOLE JING <guole.jing@gmail.com> 1644307495 +0100	checkout: moving from master to crud-eleve
+6a8cda552e3043d71572d90a9f3b1b83854e0d5f 3f5597a004b00d7ae69f31527e04572ba2505701 GUOLE JING <guole.jing@gmail.com> 1644309424 +0100	commit: observation pour eleve show
+3f5597a004b00d7ae69f31527e04572ba2505701 35f52c968985436fd9f8825fd16f233a158a648f GUOLE JING <guole.jing@gmail.com> 1644336085 +0100	checkout: moving from crud-eleve to master
+35f52c968985436fd9f8825fd16f233a158a648f 3f5597a004b00d7ae69f31527e04572ba2505701 GUOLE JING <guole.jing@gmail.com> 1644336190 +0100	checkout: moving from master to crud-eleve
+3f5597a004b00d7ae69f31527e04572ba2505701 2424225bda678fad52c1f4631f19754d4d9761d4 GUOLE JING <guole.jing@gmail.com> 1644943759 +0100	commit: crud eleve
+2424225bda678fad52c1f4631f19754d4d9761d4 35f52c968985436fd9f8825fd16f233a158a648f GUOLE JING <guole.jing@gmail.com> 1644943767 +0100	checkout: moving from crud-eleve to master
+35f52c968985436fd9f8825fd16f233a158a648f 2424225bda678fad52c1f4631f19754d4d9761d4 GUOLE JING <guole.jing@gmail.com> 1644943955 +0100	checkout: moving from master to crud-eleve
+2424225bda678fad52c1f4631f19754d4d9761d4 35f52c968985436fd9f8825fd16f233a158a648f GUOLE JING <guole.jing@gmail.com> 1644944152 +0100	checkout: moving from crud-eleve to master
+35f52c968985436fd9f8825fd16f233a158a648f 2424225bda678fad52c1f4631f19754d4d9761d4 GUOLE JING <guole.jing@gmail.com> 1644944167 +0100	checkout: moving from master to crud-eleve
+2424225bda678fad52c1f4631f19754d4d9761d4 2424225bda678fad52c1f4631f19754d4d9761d4 GUOLE JING <guole.jing@gmail.com> 1644944223 +0100	checkout: moving from crud-eleve to crud-eleve
+2424225bda678fad52c1f4631f19754d4d9761d4 35f52c968985436fd9f8825fd16f233a158a648f GUOLE JING <guole.jing@gmail.com> 1644944225 +0100	checkout: moving from crud-eleve to master
+35f52c968985436fd9f8825fd16f233a158a648f 35f52c968985436fd9f8825fd16f233a158a648f GUOLE JING <guole.jing@gmail.com> 1644944971 +0100	checkout: moving from master to new-optinote
+35f52c968985436fd9f8825fd16f233a158a648f 143065ce90fff1bd3d0247527abf5e7bf2a90b97 GUOLE JING <guole.jing@gmail.com> 1644944998 +0100	commit: new-optinote
+143065ce90fff1bd3d0247527abf5e7bf2a90b97 2424225bda678fad52c1f4631f19754d4d9761d4 GUOLE JING <guole.jing@gmail.com> 1644945030 +0100	checkout: moving from new-optinote to crud-eleve
+2424225bda678fad52c1f4631f19754d4d9761d4 35b978d4f0c4889f08bb7b77d207473056082a81 GUOLE JING <guole.jing@gmail.com> 1644947092 +0100	commit: ok
+35b978d4f0c4889f08bb7b77d207473056082a81 35f52c968985436fd9f8825fd16f233a158a648f GUOLE JING <guole.jing@gmail.com> 1644947101 +0100	checkout: moving from crud-eleve to master
+35f52c968985436fd9f8825fd16f233a158a648f 35b978d4f0c4889f08bb7b77d207473056082a81 GUOLE JING <guole.jing@gmail.com> 1644947163 +0100	checkout: moving from master to crud-eleve
+35b978d4f0c4889f08bb7b77d207473056082a81 35f52c968985436fd9f8825fd16f233a158a648f GUOLE JING <guole.jing@gmail.com> 1644947238 +0100	checkout: moving from crud-eleve to master
+35f52c968985436fd9f8825fd16f233a158a648f 35b978d4f0c4889f08bb7b77d207473056082a81 GUOLE JING <guole.jing@gmail.com> 1644947273 +0100	checkout: moving from master to crud-eleve
+35b978d4f0c4889f08bb7b77d207473056082a81 26a8768a43209d48d3b5f07413d5211012597a21 GUOLE JING <guole.jing@gmail.com> 1646156232 +0100	commit (merge): ok
+26a8768a43209d48d3b5f07413d5211012597a21 26a8768a43209d48d3b5f07413d5211012597a21 GUOLE JING <guole.jing@gmail.com> 1646158358 +0100	checkout: moving from crud-eleve to lele
+26a8768a43209d48d3b5f07413d5211012597a21 56c335eeaabf7a3a8c529377d072051e1f3cc66b GUOLE JING <guole.jing@gmail.com> 1646158436 +0100	commit: ok

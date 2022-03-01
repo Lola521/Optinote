@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+fe081496e8056fa6ffa9ae0b37749557173cc8fc refs/heads/admin-compte
+35f52c968985436fd9f8825fd16f233a158a648f refs/heads/compte-prof-enlever-validates
+35f52c968985436fd9f8825fd16f233a158a648f refs/heads/creer-obs-pour-eleve
+26a8768a43209d48d3b5f07413d5211012597a21 refs/heads/crud-eleve
+35f52c968985436fd9f8825fd16f233a158a648f refs/heads/master
+143065ce90fff1bd3d0247527abf5e7bf2a90b97 refs/heads/new-optinote
+fe081496e8056fa6ffa9ae0b37749557173cc8fc refs/remotes/origin/admin-compte
+35f52c968985436fd9f8825fd16f233a158a648f refs/remotes/origin/compte-prof-enlever-validates
+35f52c968985436fd9f8825fd16f233a158a648f refs/remotes/origin/master
